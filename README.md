@@ -12,7 +12,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 📈 GitHub Stats
-![Aether's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlulhadirizky&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=fadhlulhadirizky&show_icons=true&theme=radical
 
 ## 📫 Contact Me
 - Email: fadhlulhadirizky@gmail.com
