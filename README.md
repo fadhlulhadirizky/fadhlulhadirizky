@@ -16,4 +16,4 @@
 
 ## 📫 Contact Me
 - Email: fadhlulhadirizky@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/fadhlul-hadi-rizky)
+- LinkedIn: https://linkedin.com/in/fadhlul-hadi-rizky
